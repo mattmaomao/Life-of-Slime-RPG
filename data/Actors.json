@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$Slimu","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Slimu","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Slime_slayer","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Slime_slayer","traits":[],"initialLevel":1,"maxLevel":99,"name":"human skin","nickname":"slimu","note":"","profile":""}
+]
